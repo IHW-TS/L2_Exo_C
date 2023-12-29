@@ -9,4 +9,4 @@
 
 - C'est pratiquement le même sujet que celui de l'année dernière, donc j'ai quand même pris le temps de refaire les programmes pour vous aider.
 - Ils sont complets et ne contiennent pas de bugs. Si oui, envoyez-moi un message sur Discord et je le corrigerai.
-- Si certains exercices sont manquants (j'ai eu la flemme de les faire), vous pouvez me demander de l'aide sur Discord.
+- Si certains exercices sont manquants, vous pouvez me demander de l'aide sur Discord.
